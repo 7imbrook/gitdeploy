@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4C756959179B3033005BE0C8"
-               BuildableName = "liveServer"
-               BlueprintName = "liveServer"
+               BlueprintIdentifier = "4C319550179B389900D58317"
+               BuildableName = "liveServerbuild"
+               BlueprintName = "liveServerbuild"
                ReferencedContainer = "container:liveServer.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,15 +29,6 @@
       buildConfiguration = "Debug">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C756959179B3033005BE0C8"
-            BuildableName = "liveServer"
-            BlueprintName = "liveServer"
-            ReferencedContainer = "container:liveServer.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -48,21 +39,6 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C756959179B3033005BE0C8"
-            BuildableName = "liveServer"
-            BlueprintName = "liveServer"
-            ReferencedContainer = "container:liveServer.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
-      <CommandLineArguments>
-         <CommandLineArgument
-            argument = "/Users/michael/Projects/liveServer/testRepo"
-            isEnabled = "YES">
-         </CommandLineArgument>
-      </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -72,15 +48,6 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C756959179B3033005BE0C8"
-            BuildableName = "liveServer"
-            BlueprintName = "liveServer"
-            ReferencedContainer = "container:liveServer.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
