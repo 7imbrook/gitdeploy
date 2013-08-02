@@ -73,7 +73,6 @@ int checkTags(const char *name, git_oid *oid, void *payload) {
     
     regex_t regex;
     int reti;
-    char messBuff[100];
     
     if ((reti = regcomp(&regex, "v[0-9].[0-9].0", 0))) {
         printf("Regex failed\n");
